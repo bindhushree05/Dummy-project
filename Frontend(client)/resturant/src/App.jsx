@@ -5,8 +5,7 @@ function App() {
 
   return (
     <div>
-      <h1>Welcome to my new webpage</h1>
-    
+      <H1>Welcome to my new WebPage!!</H1>
     </div>
   )
 }
